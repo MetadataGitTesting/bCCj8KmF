@@ -1,0 +1,50 @@
+name: rufus.adams
+description: Synchronised
+version: 0.0.1
+author: ntmfywkm.fs7hqwio@jxf6e9q9.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: rufusadams
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-12-05 20:54:20'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-12-05 20:54:20'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-12-05T20:54:20.350427Z'
+  name: plibMaven
+  version: 8.16.0-SNAPSHOT
+  id: '1455318151'
+  createdAt: '2025-12-05T20:54:20.350427Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
